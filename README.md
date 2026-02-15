@@ -8,8 +8,6 @@
 <img width="650" height="302" alt="image" src="https://github.com/user-attachments/assets/cb6b68a2-baf1-4601-b773-5548b3d3ac10" />  
 <img width="1374" height="173" alt="image" src="https://github.com/user-attachments/assets/82c197e6-dca2-44e1-a8bb-2a9a528f825f" />  
 
->  
-
 > 		"ВЫБРАТЬ  
 > 		|	Контрагенты.Наименование КАК Наименование,  
 > 		|	Контрагенты.ИНН КАК ИНН,  
@@ -33,3 +31,7 @@
 >		|			И (ФактАдрес.Вид = ЗНАЧЕНИЕ(Справочник.ВидыКонтактнойИнформации.ФактАдресКонтрагента))";  
       
    ____________________________________________________________________________________________________________________________________________________
+
+<img width="640" height="170" alt="image" src="https://github.com/user-attachments/assets/5d6c1edd-0c2e-4595-b6a4-ac98cd1348fc" />
+
+
